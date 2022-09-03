@@ -1,2 +1,6 @@
-# IMC
-HTML,CSS e JavaScript
+# Projeto Calculo do IMC.
+
+# Tecnólogias Ultilizadas.
+# HTML
+# CSS
+# JavaScript
