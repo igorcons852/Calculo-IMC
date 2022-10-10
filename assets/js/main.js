@@ -17,6 +17,7 @@ form.addEventListener('submit', function (e){
         setResultado('Peso Invalido', false);
         return;
     }
+    //oi evaldo
     if(altura == false){
         setResultado('Altura Invalido', false);
         return;
